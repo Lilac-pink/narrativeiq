@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NarrativeIQ — Episodic Intelligence Engine
 
 AI-powered story analysis for series creators.
@@ -85,3 +86,6 @@ DATABASE_URL=sqlite:///./narrativeiq.db
 ```
 VITE_API_BASE_URL=http://localhost:8000
 ```
+=======
+# narrativeiq
+>>>>>>> 9529e6d34eab7a5b7f33a11572f6cae0e3140e28
