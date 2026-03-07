@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 228 14% 8%;
+    --foreground: 210 20% 92%;
+
+    --card: 228 12% 12%;
+    --card-foreground: 210 20% 92%;
+
+    --popover: 228 12% 12%;
+    --popover-foreground: 210 20% 92%;
+
+    --primary: 239 84% 67%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 228 12% 18%;
+    --secondary-foreground: 210 20% 85%;
+
+    --muted: 228 10% 16%;
+    --muted-foreground: 215 15% 55%;
+
+    --accent: 187 94% 43%;
+    --accent-foreground: 228 14% 8%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 228 12% 20%;
+    --input: 228 12% 20%;
+    --ring: 239 84% 67%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 228 14% 6%;
+    --sidebar-foreground: 210 20% 75%;
+    --sidebar-primary: 239 84% 67%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 228 12% 14%;
+    --sidebar-accent-foreground: 210 20% 92%;
+    --sidebar-border: 228 12% 16%;
+    --sidebar-ring: 239 84% 67%;
+
+    --success: 142 71% 45%;
+    --warning: 38 92% 50%;
+    --info: 187 94% 43%;
+    --glow-primary: 0 0 20px hsl(239 84% 67% / 0.4);
+    --glow-accent: 0 0 20px hsl(187 94% 43% / 0.3);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer utilities {
+  .glow-primary {
+    box-shadow: var(--glow-primary);
+  }
+  .glow-accent {
+    box-shadow: var(--glow-accent);
+  }
+  .glow-impact {
+    box-shadow: 0 0 24px hsl(239 84% 67% / 0.5), 0 0 48px hsl(187 94% 43% / 0.2);
+    border-color: hsl(239 84% 67% / 0.6);
+  }
+  .glass-card {
+    @apply bg-card/80 backdrop-blur-sm border border-border rounded-xl;
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-slide-up {
+  animation: slide-up 0.4s ease-out forwards;
+}

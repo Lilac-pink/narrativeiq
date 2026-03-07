@@ -1,0 +1,839 @@
+{
+  "series_title": "Birthday",
+  "total_episodes": 6,
+  "story_type": "unknown",
+  "episodes": [
+    {
+      "episode_number": 1,
+      "title": "The Long Wait",
+      "plot_beat": "We meet our protagonist, 10-year-old Max, as he diligently saves his pocket money for months, determined to buy his mother a birthday cake. Max's mother, Sarah, has been struggling with illness, and Max wants to celebrate her birthday with her one last time. Max finally reaches the bakery and carefully picks the smallest cake he can afford. On the way home, the cake slips from his hands and falls onto the road. Max sits on the curb, staring at the ruined cake, trying not to cry.",
+      "opening_beat": "The episode opens on a shot of Max's piggy bank, filled with coins and bills. Max is sitting at the kitchen table, staring at a calendar, counting down the days until his mother's birthday. As he works, we see flashbacks of Max and his mother's happy times together. Max's mother, Sarah, is a kind and loving woman who has been fighting a long illness.",
+      "closing_beat": "Max sits on the curb, staring at the ruined cake, as a passerby approaches him and asks where his mother is. Max points across the street to the small cemetery, and the passerby's expression changes from concern to understanding.",
+      "characters": [
+        "Max",
+        "Sarah",
+        "Passerby"
+      ],
+      "locations": [
+        "Max's house",
+        "Bakery",
+        "Street",
+        "Cemetery"
+      ],
+      "character_descriptions": {
+        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
+        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
+        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+      },
+      "time_references": [
+        "6 months before Sarah's birthday",
+        "the day of Sarah's birthday"
+      ],
+      "action_verbs": [
+        "saves",
+        "diligently",
+        "carefully",
+        "slips",
+        "sits"
+      ],
+      "conflict_keywords": [
+        "illness",
+        "birthday",
+        "loss",
+        "ruin"
+      ],
+      "raw_text": "",
+      "emotion_score": 0.6134,
+      "continuity_score": 0.85,
+      "cliffhanger_score": 10.0,
+      "drop_off_probability": 0.446,
+      "arc_deviation": 0.0
+    },
+    {
+      "episode_number": 2,
+      "title": "The Past Catches Up",
+      "plot_beat": "As Max sits on the curb, he begins to think about his mother's illness and how it's affected their family. We see flashbacks of Max's mother's diagnosis and the struggles they've faced since then. The passerby, who has been watching Max, offers to help him pick up the pieces of the ruined cake. Max hesitantly accepts, and as they walk together, Max opens up about his mother's illness and his desire to celebrate her birthday with her one last time.",
+      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
+      "closing_beat": "As Max and the passerby walk together, they come across a small park where Max's mother used to take him. Max breaks down in tears, and the passerby puts a comforting arm around his shoulders.",
+      "characters": [
+        "Max",
+        "Sarah",
+        "Passerby"
+      ],
+      "locations": [
+        "Hospital",
+        "Park",
+        "Street"
+      ],
+      "character_descriptions": {
+        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
+        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
+        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+      },
+      "time_references": [
+        "6 months before Sarah's birthday",
+        "the day of Sarah's birthday"
+      ],
+      "action_verbs": [
+        "thinks",
+        "begins",
+        "offers",
+        "accepts"
+      ],
+      "conflict_keywords": [
+        "illness",
+        "loss",
+        "memory"
+      ],
+      "raw_text": "",
+      "emotion_score": 0.1554,
+      "continuity_score": 0.85,
+      "cliffhanger_score": 3.8,
+      "drop_off_probability": 0.683,
+      "arc_deviation": 0.0
+    },
+    {
+      "episode_number": 3,
+      "title": "The Weight of Grief",
+      "plot_beat": "As Max and the passerby continue to walk, they come across a small caf\u00e9 where Max's mother used to take him for coffee. Max breaks down in tears again, and the passerby offers to buy him a coffee. As they sit down, Max begins to open up about his feelings of guilt and sadness. The passerby listens intently, and for the first time, Max feels like someone truly understands him.",
+      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
+      "closing_beat": "As Max and the passerby finish their coffee, the passerby reveals that he has a similar story of loss and grief. Max looks up at him with a mix of surprise and understanding.",
+      "characters": [
+        "Max",
+        "Sarah",
+        "Passerby"
+      ],
+      "locations": [
+        "Caf\u00e9",
+        "Street"
+      ],
+      "character_descriptions": {
+        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
+        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
+        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+      },
+      "time_references": [
+        "6 months before Sarah's birthday",
+        "the day of Sarah's birthday"
+      ],
+      "action_verbs": [
+        "breaks",
+        "begins",
+        "offers",
+        "listens"
+      ],
+      "conflict_keywords": [
+        "grief",
+        "loss",
+        "understanding"
+      ],
+      "raw_text": "",
+      "emotion_score": 0.2089,
+      "continuity_score": 0.85,
+      "cliffhanger_score": 5.6,
+      "drop_off_probability": 0.667,
+      "arc_deviation": 0.0
+    },
+    {
+      "episode_number": 4,
+      "title": "The Final Goodbye",
+      "plot_beat": "As the day of Sarah's birthday approaches, Max becomes increasingly anxious and withdrawn. He knows that his mother's time is running out, and he's desperate to spend more time with her. The passerby, who has become a friend to Max, tries to help him find ways to celebrate his mother's birthday in a way that will make her happy. Meanwhile, Sarah's condition takes a turn for the worse, and she's given a short time to live.",
+      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
+      "closing_beat": "As the day of Sarah's birthday comes to a close, Max sits with his mother in the hospital room, holding her hand and looking up at her with tears in his eyes. Sarah smiles weakly at him, and Max knows that it's almost time to say goodbye.",
+      "characters": [
+        "Max",
+        "Sarah",
+        "Passerby"
+      ],
+      "locations": [
+        "Hospital"
+      ],
+      "character_descriptions": {
+        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
+        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
+        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+      },
+      "time_references": [
+        "the day of Sarah's birthday"
+      ],
+      "action_verbs": [
+        "becomes",
+        "tries",
+        "helps",
+        "given"
+      ],
+      "conflict_keywords": [
+        "illness",
+        "loss",
+        "goodbye"
+      ],
+      "raw_text": "",
+      "emotion_score": 0.5213,
+      "continuity_score": 0.85,
+      "cliffhanger_score": 5.0,
+      "drop_off_probability": 0.574,
+      "arc_deviation": 0.0
+    },
+    {
+      "episode_number": 5,
+      "title": "The Last Gift",
+      "plot_beat": "As Sarah's time comes to an end, Max is desperate to give her one last gift. He remembers the ruined cake from earlier and decides to make her a new one, with the help of the passerby. As they work together, Max opens up about his feelings of guilt and sadness. Meanwhile, Sarah's condition takes a turn for the worse, and she's given a short time to live.",
+      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
+      "closing_beat": "As the episode comes to a close, Max presents Sarah with a beautiful cake, made with love and care. Sarah smiles weakly at him, and Max knows that it's almost time to say goodbye.",
+      "characters": [
+        "Max",
+        "Sarah",
+        "Passerby"
+      ],
+      "locations": [
+        "Hospital"
+      ],
+      "character_descriptions": {
+        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
+        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
+        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+      },
+      "time_references": [
+        "the day of Sarah's birthday"
+      ],
+      "action_verbs": [
+        "desperate",
+        "remembers",
+        "decides",
+        "opens"
+      ],
+      "conflict_keywords": [
+        "illness",
+        "loss",
+        "goodbye"
+      ],
+      "raw_text": "",
+      "emotion_score": 0.4836,
+      "continuity_score": 0.85,
+      "cliffhanger_score": 5.0,
+      "drop_off_probability": 0.485,
+      "arc_deviation": 0.0
+    },
+    {
+      "episode_number": 6,
+      "title": "The Final Goodbye",
+      "plot_beat": "As Sarah's time comes to an end, Max is by her side, holding her hand and looking up at her with tears in his eyes. Sarah smiles weakly at him, and Max knows that it's almost time to say goodbye. The passerby is also present, offering words of comfort and support. As the episode comes to a close, Max says goodbye to his mother, and the passerby helps him to process his grief.",
+      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
+      "closing_beat": "As the episode comes to a close, Max is seen walking away from the hospital, holding a small bouquet of flowers. The passerby is walking alongside him, offering words of comfort and support. Max looks up at him with a mix of sadness and gratitude.",
+      "characters": [
+        "Max",
+        "Sarah",
+        "Passerby"
+      ],
+      "locations": [
+        "Hospital"
+      ],
+      "character_descriptions": {
+        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
+        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
+        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+      },
+      "time_references": [
+        "the day of Sarah's birthday"
+      ],
+      "action_verbs": [
+        "holds",
+        "looks",
+        "smiles",
+        "offers"
+      ],
+      "conflict_keywords": [
+        "illness",
+        "loss",
+        "goodbye"
+      ],
+      "raw_text": "",
+      "emotion_score": 0.4643,
+      "continuity_score": 0.85,
+      "cliffhanger_score": 3.0,
+      "drop_off_probability": 0.491,
+      "arc_deviation": 0.0
+    }
+  ],
+  "emotional_arc": {
+    "actual_curve": [
+      0.6134,
+      0.1554,
+      0.2089,
+      0.5213,
+      0.4836,
+      0.4643
+    ],
+    "ideal_curve": [
+      0.3,
+      0.43,
+      0.56,
+      0.69,
+      0.82,
+      0.95
+    ],
+    "flat_zones": [
+      5,
+      6
+    ],
+    "overall_deviation_score": null
+  },
+  "cliffhanger_breakdown": [
+    {
+      "episode_number": 1,
+      "title": "The Long Wait",
+      "score": 10.0,
+      "criteria": [
+        {
+          "criterion": "Unresolved question",
+          "pass": true,
+          "reason": "The passerby's expression change from concern to understanding implies that Max's mother may have passed away, creating a specific and unresolved question about Max's mother's fate."
+        },
+        {
+          "criterion": "Emotional stakes raised",
+          "pass": true,
+          "reason": "The passerby's understanding expression implies that Max's mother is deceased, raising the emotional stakes for Max and the audience, as they now understand the true significance of Max's actions and the gravity of his loss."
+        },
+        {
+          "criterion": "Character in jeopardy",
+          "pass": true,
+          "reason": "Max's emotional state is precarious as he mourns the ruined cake, and the passerby's question about his mother's whereabouts implies a deeper, unresolved issue."
+        },
+        {
+          "criterion": "New information revealed",
+          "pass": true,
+          "reason": "The passerby's question and Max's response introduce the possibility that Max's mother may be deceased, which recontextualises the audience's understanding of Max's motivations and the story's tone."
+        },
+        {
+          "criterion": "Time pressure present",
+          "pass": true,
+          "reason": "The episode's central plot revolves around Max's goal to buy a birthday cake for his mother before her birthday, creating an implied urgency and deadline."
+        },
+        {
+          "criterion": "Scene ends on action beat",
+          "pass": true,
+          "reason": "The passerby's expression change and Max's pointing gesture create a moment of discovery and subtle tension."
+        }
+      ]
+    },
+    {
+      "episode_number": 2,
+      "title": "The Past Catches Up",
+      "score": 3.8,
+      "criteria": [
+        {
+          "criterion": "Unresolved question",
+          "pass": false,
+          "reason": "The episode ends with a poignant emotional moment, but it doesn't introduce a specific unresolved question or mystery that the audience needs to be answered."
+        },
+        {
+          "criterion": "Emotional stakes raised",
+          "pass": true,
+          "reason": "The emotional stakes are explicitly raised as Max's vulnerability and emotional breakdown in the park reveal the depth of his connection to his mother and the gravity of her illness."
+        },
+        {
+          "criterion": "Character in jeopardy",
+          "pass": true,
+          "reason": "Max is emotionally vulnerable and in tears as the episode ends, indicating he is in a state of emotional jeopardy."
+        },
+        {
+          "criterion": "New information revealed",
+          "pass": false,
+          "reason": "The episode ends with a poignant emotional moment, but it doesn't introduce new information that recontextualizes what the audience thought they knew about the story."
+        },
+        {
+          "criterion": "Time pressure present",
+          "pass": false,
+          "reason": "There is no explicit or implied urgency in the closing beat, as the scene focuses on Max's emotional moment rather than a looming deadline or time constraint."
+        },
+        {
+          "criterion": "Scene ends on action beat",
+          "pass": false,
+          "reason": "The episode ends with a quiet character moment, as Max breaks down in tears and the passerby offers comfort, rather than a moment of action, discovery, or confrontation."
+        }
+      ]
+    },
+    {
+      "episode_number": 3,
+      "title": "The Weight of Grief",
+      "score": 5.6,
+      "criteria": [
+        {
+          "criterion": "Unresolved question",
+          "pass": false,
+          "reason": "The episode ends with a moment of connection and understanding between Max and the passerby, rather than an unresolved question or mystery."
+        },
+        {
+          "criterion": "Emotional stakes raised",
+          "pass": true,
+          "reason": "The passerby's revelation of a similar story of loss raises the emotional stakes for Max, as he now understands that he is not alone in his grief and may have more to lose in terms of emotional connection and potential healing."
+        },
+        {
+          "criterion": "Character in jeopardy",
+          "pass": true,
+          "reason": "Max is emotionally vulnerable and in a state of raw grief, which puts him in a precarious position, and the passerby's revelation adds a layer of uncertainty to their relationship."
+        },
+        {
+          "criterion": "New information revealed",
+          "pass": true,
+          "reason": "The passerby's revelation of a similar story of loss and grief adds a new layer of depth to the narrative, recontextualizing Max's emotions and experiences."
+        },
+        {
+          "criterion": "Time pressure present",
+          "pass": false,
+          "reason": "There is no explicit or implied time constraint, deadline, or countdown in the closing beat, allowing the audience to focus on the emotional connection between Max and the passerby."
+        },
+        {
+          "criterion": "Scene ends on action beat",
+          "pass": false,
+          "reason": "The episode ends on a quiet character moment with Max and the passerby sharing a moment of mutual understanding through dialogue and reflection."
+        }
+      ]
+    },
+    {
+      "episode_number": 4,
+      "title": "The Final Goodbye",
+      "score": 5.0,
+      "criteria": [
+        {
+          "criterion": "Unresolved question",
+          "pass": false,
+          "reason": "The episode ends with a clear emotional conclusion for Max and his mother, and the audience is left with a sense of impending loss rather than an unresolved question or mystery."
+        },
+        {
+          "criterion": "Emotional stakes raised",
+          "pass": true,
+          "reason": "The emotional stakes are explicitly raised as Sarah's condition takes a turn for the worse, and Max is forced to confront the impending loss of his mother."
+        },
+        {
+          "criterion": "Character in jeopardy",
+          "pass": true,
+          "reason": "Max is in emotional jeopardy as he prepares to say goodbye to his dying mother."
+        },
+        {
+          "criterion": "New information revealed",
+          "pass": false,
+          "reason": "The episode ends with a poignant moment of emotional closure, but it doesn't introduce any new information or plot twist that significantly recontextualizes the audience's understanding of the story."
+        },
+        {
+          "criterion": "Time pressure present",
+          "pass": true,
+          "reason": "The episode explicitly states that Sarah's condition has taken a turn for the worse and she's given a short time to live, creating a clear sense of urgency and countdown."
+        },
+        {
+          "criterion": "Scene ends on action beat",
+          "pass": false,
+          "reason": "The episode ends with a quiet character moment, where Max reflects on his impending goodbye with his mother."
+        }
+      ]
+    },
+    {
+      "episode_number": 5,
+      "title": "The Last Gift",
+      "score": 5.0,
+      "criteria": [
+        {
+          "criterion": "Unresolved question",
+          "pass": false,
+          "reason": "The episode ends with a poignant emotional moment, but there is no clear unresolved question or mystery that the audience needs to be answered."
+        },
+        {
+          "criterion": "Emotional stakes raised",
+          "pass": true,
+          "reason": "The closing beat explicitly raises the emotional stakes for Max as Sarah's condition takes a turn for the worse, making their impending goodbye even more poignant."
+        },
+        {
+          "criterion": "Character in jeopardy",
+          "pass": true,
+          "reason": "Sarah's condition takes a turn for the worse, and she's given a short time to live, putting her in physical jeopardy."
+        },
+        {
+          "criterion": "New information revealed",
+          "pass": false,
+          "reason": "The episode ends with a heartwarming moment, but it doesn't introduce any new information or plot twist that significantly recontextualizes the audience's understanding of the story."
+        },
+        {
+          "criterion": "Time pressure present",
+          "pass": true,
+          "reason": "The episode explicitly states that Sarah's condition takes a turn for the worse and she's given a short time to live, creating an implied urgency."
+        },
+        {
+          "criterion": "Scene ends on action beat",
+          "pass": false,
+          "reason": "The episode ends with a quiet character moment, where Max presents Sarah with a cake and they share a weak smile, rather than a moment of action, discovery, or confrontation."
+        }
+      ]
+    },
+    {
+      "episode_number": 6,
+      "title": "The Final Goodbye",
+      "score": 3.0,
+      "criteria": [
+        {
+          "criterion": "Unresolved question",
+          "pass": false,
+          "reason": "The episode's closing beat resolves the immediate emotional conflict, providing a sense of closure for Max's goodbye to his mother."
+        },
+        {
+          "criterion": "Emotional stakes raised",
+          "pass": false,
+          "reason": "The emotional stakes for Max are resolved as he says goodbye to his mother, and the audience is shown a moment of closure and support, rather than a new threat or risk."
+        },
+        {
+          "criterion": "Character in jeopardy",
+          "pass": true,
+          "reason": "Max is walking away from the hospital, still visibly affected by his mother's passing, indicating he is in emotional jeopardy."
+        },
+        {
+          "criterion": "New information revealed",
+          "pass": false,
+          "reason": "The episode ends on a poignant and emotional note, but it does not introduce any new information or plot twist that recontextualizes the audience's understanding of the story."
+        },
+        {
+          "criterion": "Time pressure present",
+          "pass": true,
+          "reason": "The episode's title 'The Final Goodbye' and the description of Sarah's weak smile and Max's tears imply that Sarah's time is limited, creating a sense of urgency."
+        },
+        {
+          "criterion": "Scene ends on action beat",
+          "pass": false,
+          "reason": "The episode ends with a quiet character moment, showcasing Max's emotional state as he walks away from the hospital with the passerby's support."
+        }
+      ]
+    }
+  ],
+  "retention_heatmap": [
+    {
+      "episode_number": 1,
+      "title": "The Long Wait",
+      "blocks": [
+        {
+          "time_block": "0\u201315s",
+          "risk_level": "low",
+          "reason": "Strong hook \u2014 strong cold-open continuation from previous cliffhanger"
+        },
+        {
+          "time_block": "15\u201330s",
+          "risk_level": "low",
+          "reason": "Clean setup \u2014 character and location context established clearly"
+        },
+        {
+          "time_block": "30\u201345s",
+          "risk_level": "low",
+          "reason": "Development on track \u2014 tension signals present"
+        },
+        {
+          "time_block": "45\u201360s",
+          "risk_level": "low",
+          "reason": "Midpoint strong \u2014 reversal or new information likely present"
+        },
+        {
+          "time_block": "60\u201375s",
+          "risk_level": "low",
+          "reason": "Escalation strong \u2014 emotion and tension rising toward cliffhanger"
+        },
+        {
+          "time_block": "75\u201390s",
+          "risk_level": "low",
+          "reason": "Strong cliffhanger \u2014 closing beat should compel next-episode play"
+        }
+      ],
+      "overall_risk": "low",
+      "high_risk_count": 0,
+      "medium_risk_count": 0,
+      "low_risk_count": 6,
+      "summary": "The Long Wait has strong retention across all time blocks with no critical risk windows."
+    },
+    {
+      "episode_number": 2,
+      "title": "The Past Catches Up",
+      "blocks": [
+        {
+          "time_block": "0\u201315s",
+          "risk_level": "low",
+          "reason": "Strong hook \u2014 strong cold-open continuation from previous cliffhanger"
+        },
+        {
+          "time_block": "15\u201330s",
+          "risk_level": "low",
+          "reason": "Clean setup \u2014 character and location context established clearly"
+        },
+        {
+          "time_block": "30\u201345s",
+          "risk_level": "low",
+          "reason": "Development on track \u2014 tension signals present"
+        },
+        {
+          "time_block": "45\u201360s",
+          "risk_level": "low",
+          "reason": "Midpoint strong \u2014 reversal or new information likely present"
+        },
+        {
+          "time_block": "60\u201375s",
+          "risk_level": "medium",
+          "reason": "Escalation risk: cliffhanger score 5.0/10 \u2014 escalation may feel weak; emotion score below threshold for late-episode escalation"
+        },
+        {
+          "time_block": "75\u201390s",
+          "risk_level": "medium",
+          "reason": "Cliffhanger risk: cliffhanger score 5.0/10 \u2014 closing beat needs strengthening; low closing emotion \u2014 cliffhanger lacks emotional punch"
+        }
+      ],
+      "overall_risk": "low",
+      "high_risk_count": 0,
+      "medium_risk_count": 2,
+      "low_risk_count": 4,
+      "summary": "The Past Catches Up has strong retention across all time blocks with no critical risk windows."
+    },
+    {
+      "episode_number": 3,
+      "title": "The Weight of Grief",
+      "blocks": [
+        {
+          "time_block": "0\u201315s",
+          "risk_level": "low",
+          "reason": "Strong hook \u2014 strong cold-open continuation from previous cliffhanger"
+        },
+        {
+          "time_block": "15\u201330s",
+          "risk_level": "low",
+          "reason": "Clean setup \u2014 character and location context established clearly"
+        },
+        {
+          "time_block": "30\u201345s",
+          "risk_level": "low",
+          "reason": "Development on track \u2014 tension signals present"
+        },
+        {
+          "time_block": "45\u201360s",
+          "risk_level": "low",
+          "reason": "Midpoint strong \u2014 reversal or new information likely present"
+        },
+        {
+          "time_block": "60\u201375s",
+          "risk_level": "medium",
+          "reason": "Escalation risk: cliffhanger score 5.0/10 \u2014 escalation may feel weak; emotion score below threshold for late-episode escalation"
+        },
+        {
+          "time_block": "75\u201390s",
+          "risk_level": "medium",
+          "reason": "Cliffhanger risk: cliffhanger score 5.0/10 \u2014 closing beat needs strengthening; low closing emotion \u2014 cliffhanger lacks emotional punch"
+        }
+      ],
+      "overall_risk": "low",
+      "high_risk_count": 0,
+      "medium_risk_count": 2,
+      "low_risk_count": 4,
+      "summary": "The Weight of Grief has strong retention across all time blocks with no critical risk windows."
+    },
+    {
+      "episode_number": 4,
+      "title": "The Final Goodbye",
+      "blocks": [
+        {
+          "time_block": "0\u201315s",
+          "risk_level": "low",
+          "reason": "Strong hook \u2014 strong cold-open continuation from previous cliffhanger"
+        },
+        {
+          "time_block": "15\u201330s",
+          "risk_level": "low",
+          "reason": "Clean setup \u2014 character and location context established clearly"
+        },
+        {
+          "time_block": "30\u201345s",
+          "risk_level": "low",
+          "reason": "Development on track \u2014 tension signals present"
+        },
+        {
+          "time_block": "45\u201360s",
+          "risk_level": "low",
+          "reason": "Midpoint strong \u2014 reversal or new information likely present"
+        },
+        {
+          "time_block": "60\u201375s",
+          "risk_level": "medium",
+          "reason": "Escalation risk: cliffhanger score 5.0/10 \u2014 escalation may feel weak; emotion score below threshold for late-episode escalation"
+        },
+        {
+          "time_block": "75\u201390s",
+          "risk_level": "low",
+          "reason": "Strong cliffhanger \u2014 closing beat should compel next-episode play"
+        }
+      ],
+      "overall_risk": "low",
+      "high_risk_count": 0,
+      "medium_risk_count": 1,
+      "low_risk_count": 5,
+      "summary": "The Final Goodbye has strong retention across all time blocks with no critical risk windows."
+    },
+    {
+      "episode_number": 5,
+      "title": "The Last Gift",
+      "blocks": [
+        {
+          "time_block": "0\u201315s",
+          "risk_level": "low",
+          "reason": "Strong hook \u2014 strong cold-open continuation from previous cliffhanger"
+        },
+        {
+          "time_block": "15\u201330s",
+          "risk_level": "low",
+          "reason": "Clean setup \u2014 character and location context established clearly"
+        },
+        {
+          "time_block": "30\u201345s",
+          "risk_level": "low",
+          "reason": "Development on track \u2014 tension signals present"
+        },
+        {
+          "time_block": "45\u201360s",
+          "risk_level": "low",
+          "reason": "Midpoint strong \u2014 reversal or new information likely present"
+        },
+        {
+          "time_block": "60\u201375s",
+          "risk_level": "medium",
+          "reason": "Escalation risk: cliffhanger score 5.0/10 \u2014 escalation may feel weak; emotion score below threshold for late-episode escalation"
+        },
+        {
+          "time_block": "75\u201390s",
+          "risk_level": "medium",
+          "reason": "Cliffhanger risk: cliffhanger score 5.0/10 \u2014 closing beat needs strengthening; low closing emotion \u2014 cliffhanger lacks emotional punch"
+        }
+      ],
+      "overall_risk": "low",
+      "high_risk_count": 0,
+      "medium_risk_count": 2,
+      "low_risk_count": 4,
+      "summary": "The Last Gift has strong retention across all time blocks with no critical risk windows."
+    },
+    {
+      "episode_number": 6,
+      "title": "The Final Goodbye",
+      "blocks": [
+        {
+          "time_block": "0\u201315s",
+          "risk_level": "low",
+          "reason": "Strong hook \u2014 strong cold-open continuation from previous cliffhanger"
+        },
+        {
+          "time_block": "15\u201330s",
+          "risk_level": "low",
+          "reason": "Clean setup \u2014 character and location context established clearly"
+        },
+        {
+          "time_block": "30\u201345s",
+          "risk_level": "low",
+          "reason": "Development on track \u2014 tension signals present"
+        },
+        {
+          "time_block": "45\u201360s",
+          "risk_level": "low",
+          "reason": "Midpoint strong \u2014 reversal or new information likely present"
+        },
+        {
+          "time_block": "60\u201375s",
+          "risk_level": "medium",
+          "reason": "Escalation risk: cliffhanger score 5.0/10 \u2014 escalation may feel weak; emotion score below threshold for late-episode escalation"
+        },
+        {
+          "time_block": "75\u201390s",
+          "risk_level": "medium",
+          "reason": "Cliffhanger risk: cliffhanger score 5.0/10 \u2014 closing beat needs strengthening; low closing emotion \u2014 cliffhanger lacks emotional punch"
+        }
+      ],
+      "overall_risk": "low",
+      "high_risk_count": 0,
+      "medium_risk_count": 2,
+      "low_risk_count": 4,
+      "summary": "The Final Goodbye has strong retention across all time blocks with no critical risk windows."
+    }
+  ],
+  "continuity_issues": [],
+  "suggestions": [
+    {
+      "priority": 1,
+      "episode": 2,
+      "category": "Retention",
+      "suggestion": "Add a scene where Max and the passerby have a brief, meaningful conversation that reveals their shared connection or emotional resonance, such as the passerby sharing a personal experience of loss or struggle, to create a deeper emotional bond and make Max's breakdown in the park more impactful. This new scene can occur after Max opens up about his mother's illness, making the moment in the park more earned and emotionally resonant.",
+      "impact_score": 51.2
+    },
+    {
+      "priority": 2,
+      "episode": 3,
+      "category": "Retention",
+      "suggestion": "Introduce a dramatic plot twist or a meaningful revelation about the passerby's past within the first 5 minutes of the caf\u00e9 scene, making Max's emotional breakdown and subsequent conversation with the passerby feel less like a coincidence and more like a deliberate connection that drives the plot forward. This could be achieved by having the passerby mention a specific object or memory that resonates with Max, setting the stage for their shared understanding of loss.",
+      "impact_score": 50.0
+    },
+    {
+      "priority": 3,
+      "episode": 2,
+      "category": "Emotional Arc",
+      "suggestion": "Replace the passerby with a character who has a direct connection to Max's mother's illness or the family's past, such as a former nurse who helped care for Max's mother or a neighbor who witnessed the family's struggles. This connection will make the passerby's offer of help more meaningful and raise the emotional stakes for Max, allowing him to feel a deeper sense of vulnerability and trust.",
+      "impact_score": 45.6
+    },
+    {
+      "priority": 4,
+      "episode": 4,
+      "category": "Retention",
+      "suggestion": "Consider adding a pivotal scene where Max and the passerby successfully plan and execute a memorable birthday surprise for Sarah, such as a small family gathering or a personalized gift, to create a moment of joy and connection that counterbalances the impending loss, making the emotional payoff in the closing scene more impactful. This could be inserted between the moments where Max becomes increasingly anxious and withdrawn, and the final scene in the hospital room.",
+      "impact_score": 43.0
+    },
+    {
+      "priority": 5,
+      "episode": 3,
+      "category": "Emotional Arc",
+      "suggestion": "Add a physical manifestation of Max's emotional pain, such as a sudden sharp pain in his chest or a desperate attempt to pull away from the passerby, to convey the depth of his anguish during the caf\u00e9 conversation, forcing the passerby to physically respond and heighten the emotional intensity.",
+      "impact_score": 42.7
+    },
+    {
+      "priority": 6,
+      "episode": 6,
+      "category": "Cliffhanger",
+      "suggestion": "Add a twist to the closing scene by having the passerby reveal a personal connection to Sarah or Max, such as a shared memory or a secret that was never revealed, which would make Max's goodbye even more bittersweet and leave the audience with a lasting impression. This could be as simple as the passerby pulling out a photo from his pocket or mentioning a specific inside joke. This would give the scene a more emotional resonance and raise the stakes for Max's future.",
+      "impact_score": 42.0
+    },
+    {
+      "priority": 7,
+      "episode": 2,
+      "category": "Cliffhanger",
+      "suggestion": "Consider adding a new twist to the closing scene by having the passerby reveal a personal connection to Max's mother or the park, which would make Max's emotional breakdown even more poignant and raise questions about their shared history. For example, the passerby could mention a fond memory of visiting Max's mother at the hospital, or claim to have known her from a prior event. This would add a layer of depth to the scene and create a stronger hook.",
+      "impact_score": 37.2
+    },
+    {
+      "priority": 8,
+      "episode": 6,
+      "category": "Retention",
+      "suggestion": "Consider adding a subtle, emotional flashback sequence between Max's goodbye and his walk away from the hospital, where Max remembers a cherished moment with his mother, such as a birthday celebration or a family vacation. This would give the audience a chance to process their emotions and create a more nuanced connection with Max's grief. Show this flashback in a dreamlike state, with soft music and muted colors.",
+      "impact_score": 36.8
+    }
+  ],
+  "score_explanations": {},
+  "character_issues": [],
+  "_pipeline_meta": {
+    "generated_at": "2026-03-07T07:28:06.100967+00:00",
+    "total_time_s": 177.53,
+    "phase_timings": {
+      "Phase 1 (M3\u2192M4)": 8.03,
+      "Phase 2 (M5,6,9,10)": 8.1,
+      "Phase 3 (M7,8,12,13)": 129.73,
+      "Phase 4 (M14\u2192M15)": 31.65
+    },
+    "errors": [],
+    "modules_run": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+}
