@@ -1,503 +1,569 @@
 {
-  "series_title": "Birthday",
-  "total_episodes": 6,
+  "series_title": "one last time",
+  "total_episodes": 7,
   "story_type": "unknown",
   "episodes": [
     {
       "episode_number": 1,
-      "title": "The Long Wait",
-      "plot_beat": "We meet our protagonist, 10-year-old Max, as he diligently saves his pocket money for months, determined to buy his mother a birthday cake. Max's mother, Sarah, has been struggling with illness, and Max wants to celebrate her birthday with her one last time. Max finally reaches the bakery and carefully picks the smallest cake he can afford. On the way home, the cake slips from his hands and falls onto the road. Max sits on the curb, staring at the ruined cake, trying not to cry.",
-      "opening_beat": "The episode opens on a shot of Max's piggy bank, filled with coins and bills. Max is sitting at the kitchen table, staring at a calendar, counting down the days until his mother's birthday. As he works, we see flashbacks of Max and his mother's happy times together. Max's mother, Sarah, is a kind and loving woman who has been fighting a long illness.",
-      "closing_beat": "Max sits on the curb, staring at the ruined cake, as a passerby approaches him and asks where his mother is. Max points across the street to the small cemetery, and the passerby's expression changes from concern to understanding.",
+      "title": "the silence begins",
+      "plot_beat": "Zara returns to her childhood home in Detroit after 6 years, where she finds her father, Marcus, struggling with early-stage dementia. She discovers old letters and cassette tapes, but their contents are cryptic and unclear. As she tries to connect with her father, she realizes the silence between them is more profound than she ever imagined. Zara begins to piece together her father's past, but his memories are fading fast. She finds a half-finished song on an old cassette tape, which her father had been writing for her since she was born.",
+      "opening_beat": "The episode opens on a shot of Zara's car driving down a deserted highway, the cityscape of Detroit blurring by. She pulls up to her childhood home, a small, worn-down house on the outskirts of the city. The camera pans across the overgrown lawn, the porch creaking in the wind. Zara steps out of the car, her eyes scanning the house as if searching for something. She takes a deep breath, and the camera follows her as she walks up the path to the front door.",
+      "closing_beat": "As Zara sits with her father in the living room, trying to engage him in conversation, she notices a small, old-fashioned key hidden in his pocket. She asks him what it unlocks, but he just shakes his head, his eyes clouding over. The camera lingers on the key as Zara's eyes widen in confusion.",
       "characters": [
-        "Max",
-        "Sarah",
-        "Passerby"
+        "Zara",
+        "Marcus"
       ],
       "locations": [
-        "Max's house",
-        "Bakery",
-        "Street",
-        "Cemetery"
+        "Marcus's childhood home in Detroit"
       ],
       "character_descriptions": {
-        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
-        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
-        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+        "Zara": "28, dark hair, piercing green eyes, guarded and independent, but with a deep well of emotion. She's been running from her past for years, but the return to her childhood home forces her to confront the silence between her and her father.",
+        "Marcus": "62, graying hair, kind eyes, struggling with early-stage dementia. He's a complex, multifaceted person, but his memories are fading fast, and he's desperate to hold on to the past."
       },
       "time_references": [
-        "6 months before Sarah's birthday",
-        "the day of Sarah's birthday"
+        "6 years after Zara left home",
+        "midnight"
       ],
       "action_verbs": [
-        "saves",
-        "diligently",
-        "carefully",
-        "slips",
-        "sits"
+        "returns",
+        "discovers",
+        "pieces",
+        "races"
       ],
       "conflict_keywords": [
-        "illness",
-        "birthday",
-        "loss",
-        "ruin"
+        "silence",
+        "dementia",
+        "memory",
+        "music"
       ],
       "raw_text": "",
-      "emotion_score": 0.6134,
+      "emotion_score": 0.3423,
       "continuity_score": 0.85,
-      "cliffhanger_score": 10.0,
-      "drop_off_probability": 0.446,
+      "cliffhanger_score": 7.6,
+      "drop_off_probability": 0.527,
       "arc_deviation": 0.0
     },
     {
       "episode_number": 2,
-      "title": "The Past Catches Up",
-      "plot_beat": "As Max sits on the curb, he begins to think about his mother's illness and how it's affected their family. We see flashbacks of Max's mother's diagnosis and the struggles they've faced since then. The passerby, who has been watching Max, offers to help him pick up the pieces of the ruined cake. Max hesitantly accepts, and as they walk together, Max opens up about his mother's illness and his desire to celebrate her birthday with her one last time.",
-      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
-      "closing_beat": "As Max and the passerby walk together, they come across a small park where Max's mother used to take him. Max breaks down in tears, and the passerby puts a comforting arm around his shoulders.",
+      "title": "the letters",
+      "plot_beat": "Zara discovers a stack of old letters in her father's attic, written to her when she was a child. As she reads through them, she begins to understand the depth of her father's love and the reasons behind the silence between them. She also finds a series of cassette tapes, each one containing a fragment of a song her father had been writing for her. Zara becomes obsessed with finishing the song, but her father's memories are fading fast.",
+      "opening_beat": "The episode opens on a shot of Zara rummaging through her father's attic, dusty boxes and old trunks scattered around her. She finds a stack of old letters, tied with a faded ribbon. As she begins to read through them, the camera pans across her face, her eyes welling up with tears.",
+      "closing_beat": "Zara sits at the piano, her fingers hovering over the keys as she tries to remember the melody from the cassette tapes. Her father enters the room, his eyes cloudy with confusion. He looks at her, and for a moment, Zara sees a glimmer of recognition. But then his eyes cloud over, and he walks away, leaving Zara feeling frustrated and defeated.",
       "characters": [
-        "Max",
-        "Sarah",
-        "Passerby"
+        "Zara",
+        "Marcus"
       ],
       "locations": [
-        "Hospital",
-        "Park",
-        "Street"
+        "Marcus's childhood home in Detroit"
       ],
       "character_descriptions": {
-        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
-        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
-        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+        "Zara": "28, dark hair, piercing green eyes, guarded and independent, but with a deep well of emotion. She's been running from her past for years, but the return to her childhood home forces her to confront the silence between her and her father.",
+        "Marcus": "62, graying hair, kind eyes, struggling with early-stage dementia. He's a complex, multifaceted person, but his memories are fading fast, and he's desperate to hold on to the past."
       },
       "time_references": [
-        "6 months before Sarah's birthday",
-        "the day of Sarah's birthday"
+        "6 years after Zara left home",
+        "midnight"
       ],
       "action_verbs": [
-        "thinks",
-        "begins",
-        "offers",
-        "accepts"
+        "discovers",
+        "reads",
+        "becomes",
+        "obsesses"
       ],
       "conflict_keywords": [
-        "illness",
-        "loss",
+        "letters",
+        "cassette tapes",
+        "song",
         "memory"
       ],
       "raw_text": "",
-      "emotion_score": 0.1554,
+      "emotion_score": 0.1646,
       "continuity_score": 0.85,
       "cliffhanger_score": 3.8,
-      "drop_off_probability": 0.683,
+      "drop_off_probability": 0.581,
       "arc_deviation": 0.0
     },
     {
       "episode_number": 3,
-      "title": "The Weight of Grief",
-      "plot_beat": "As Max and the passerby continue to walk, they come across a small caf\u00e9 where Max's mother used to take him for coffee. Max breaks down in tears again, and the passerby offers to buy him a coffee. As they sit down, Max begins to open up about his feelings of guilt and sadness. The passerby listens intently, and for the first time, Max feels like someone truly understands him.",
-      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
-      "closing_beat": "As Max and the passerby finish their coffee, the passerby reveals that he has a similar story of loss and grief. Max looks up at him with a mix of surprise and understanding.",
+      "title": "the tapes",
+      "plot_beat": "Zara becomes obsessed with finishing the song her father had been writing for her. She spends hours listening to the cassette tapes, trying to piece together the melody and lyrics. As she works on the song, she begins to understand the depth of her father's love and the reasons behind the silence between them. But her father's memories are fading fast, and Zara realizes she may never finish the song.",
+      "opening_beat": "The episode opens on a shot of Zara sitting at the piano, her fingers flying across the keys as she tries to remember the melody from the cassette tapes. The camera pans across her face, her eyes closed in concentration. As she plays, the camera cuts to a series of flashbacks, showing Zara and her father together, laughing and smiling.",
+      "closing_beat": "Zara looks up at her father, who is standing in the doorway, a look of confusion on his face. She asks him to sing the lyrics to the song, but he just shakes his head, his eyes clouding over. The camera lingers on Zara's face, her eyes welling up with tears.",
       "characters": [
-        "Max",
-        "Sarah",
-        "Passerby"
+        "Zara",
+        "Marcus"
       ],
       "locations": [
-        "Caf\u00e9",
-        "Street"
+        "Marcus's childhood home in Detroit"
       ],
       "character_descriptions": {
-        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
-        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
-        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+        "Zara": "28, dark hair, piercing green eyes, guarded and independent, but with a deep well of emotion. She's been running from her past for years, but the return to her childhood home forces her to confront the silence between her and her father.",
+        "Marcus": "62, graying hair, kind eyes, struggling with early-stage dementia. He's a complex, multifaceted person, but his memories are fading fast, and he's desperate to hold on to the past."
       },
       "time_references": [
-        "6 months before Sarah's birthday",
-        "the day of Sarah's birthday"
+        "6 years after Zara left home",
+        "midnight"
       ],
       "action_verbs": [
-        "breaks",
-        "begins",
-        "offers",
-        "listens"
+        "becomes",
+        "spends",
+        "tries",
+        "realizes"
       ],
       "conflict_keywords": [
-        "grief",
-        "loss",
-        "understanding"
+        "song",
+        "cassette tapes",
+        "memory",
+        "love"
       ],
       "raw_text": "",
-      "emotion_score": 0.2089,
+      "emotion_score": 0.4504,
       "continuity_score": 0.85,
-      "cliffhanger_score": 5.6,
-      "drop_off_probability": 0.667,
+      "cliffhanger_score": 6.8,
+      "drop_off_probability": 0.595,
       "arc_deviation": 0.0
     },
     {
       "episode_number": 4,
-      "title": "The Final Goodbye",
-      "plot_beat": "As the day of Sarah's birthday approaches, Max becomes increasingly anxious and withdrawn. He knows that his mother's time is running out, and he's desperate to spend more time with her. The passerby, who has become a friend to Max, tries to help him find ways to celebrate his mother's birthday in a way that will make her happy. Meanwhile, Sarah's condition takes a turn for the worse, and she's given a short time to live.",
-      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
-      "closing_beat": "As the day of Sarah's birthday comes to a close, Max sits with his mother in the hospital room, holding her hand and looking up at her with tears in his eyes. Sarah smiles weakly at him, and Max knows that it's almost time to say goodbye.",
+      "title": "the past",
+      "plot_beat": "Zara discovers a series of old photographs in her father's attic, showing him as a young man, full of life and energy. As she looks through the photos, she begins to understand the reasons behind the silence between her and her father. She also discovers a series of old newspaper clippings, detailing her father's struggles with addiction and his eventual recovery. Zara realizes that her father's past is more complicated than she ever imagined.",
+      "opening_beat": "The episode opens on a shot of Zara rummaging through her father's attic, dusty boxes and old trunks scattered around her. She finds a series of old photographs, tied with a faded ribbon. As she begins to look through them, the camera pans across her face, her eyes welling up with tears.",
+      "closing_beat": "Zara sits at the kitchen table, surrounded by the old photographs and newspaper clippings. She looks up at her father, who is standing in the doorway, a look of sadness on his face. He begins to speak, but his words are slurred and unclear. Zara leans forward, trying to understand what he's saying.",
       "characters": [
-        "Max",
-        "Sarah",
-        "Passerby"
+        "Zara",
+        "Marcus"
       ],
       "locations": [
-        "Hospital"
+        "Marcus's childhood home in Detroit"
       ],
       "character_descriptions": {
-        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
-        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
-        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+        "Zara": "28, dark hair, piercing green eyes, guarded and independent, but with a deep well of emotion. She's been running from her past for years, but the return to her childhood home forces her to confront the silence between her and her father.",
+        "Marcus": "62, graying hair, kind eyes, struggling with early-stage dementia. He's a complex, multifaceted person, but his memories are fading fast, and he's desperate to hold on to the past."
       },
       "time_references": [
-        "the day of Sarah's birthday"
+        "6 years after Zara left home",
+        "midnight"
       ],
       "action_verbs": [
-        "becomes",
-        "tries",
-        "helps",
-        "given"
+        "discovers",
+        "looks",
+        "realizes",
+        "sits"
       ],
       "conflict_keywords": [
-        "illness",
-        "loss",
-        "goodbye"
+        "photographs",
+        "newspaper clippings",
+        "addiction",
+        "recovery"
       ],
       "raw_text": "",
-      "emotion_score": 0.5213,
+      "emotion_score": 0.1811,
       "continuity_score": 0.85,
-      "cliffhanger_score": 5.0,
-      "drop_off_probability": 0.574,
+      "cliffhanger_score": 8.8,
+      "drop_off_probability": 0.676,
       "arc_deviation": 0.0
     },
     {
       "episode_number": 5,
-      "title": "The Last Gift",
-      "plot_beat": "As Sarah's time comes to an end, Max is desperate to give her one last gift. He remembers the ruined cake from earlier and decides to make her a new one, with the help of the passerby. As they work together, Max opens up about his feelings of guilt and sadness. Meanwhile, Sarah's condition takes a turn for the worse, and she's given a short time to live.",
-      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
-      "closing_beat": "As the episode comes to a close, Max presents Sarah with a beautiful cake, made with love and care. Sarah smiles weakly at him, and Max knows that it's almost time to say goodbye.",
+      "title": "the song",
+      "plot_beat": "Zara finally finishes the song her father had been writing for her. As she plays the final notes, she feels a sense of closure and resolution. But her father's memories are fading fast, and Zara realizes she may never see him again. She decides to take her father on a road trip, to the place where he grew up, to show him the beauty of the world one last time.",
+      "opening_beat": "The episode opens on a shot of Zara sitting at the piano, her fingers flying across the keys as she plays the final notes of the song. The camera pans across her face, her eyes shining with tears. As she finishes the song, the camera cuts to a series of flashbacks, showing Zara and her father together, laughing and smiling.",
+      "closing_beat": "Zara and her father pull up to the old family farm, the sun setting over the fields. Zara gets out of the car, and her father follows her, his eyes cloudy with confusion. She takes his hand, and they walk together, the camera lingering on their faces as they take in the beauty of the world.",
       "characters": [
-        "Max",
-        "Sarah",
-        "Passerby"
+        "Zara",
+        "Marcus"
       ],
       "locations": [
-        "Hospital"
+        "Marcus's childhood home in Detroit",
+        "the old family farm"
       ],
       "character_descriptions": {
-        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
-        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
-        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+        "Zara": "28, dark hair, piercing green eyes, guarded and independent, but with a deep well of emotion. She's been running from her past for years, but the return to her childhood home forces her to confront the silence between her and her father.",
+        "Marcus": "62, graying hair, kind eyes, struggling with early-stage dementia. He's a complex, multifaceted person, but his memories are fading fast, and he's desperate to hold on to the past."
       },
       "time_references": [
-        "the day of Sarah's birthday"
+        "6 years after Zara left home",
+        "midnight"
       ],
       "action_verbs": [
-        "desperate",
-        "remembers",
+        "finishes",
         "decides",
-        "opens"
+        "takes",
+        "walks"
       ],
       "conflict_keywords": [
-        "illness",
-        "loss",
-        "goodbye"
+        "song",
+        "road trip",
+        "memories",
+        "closure"
       ],
       "raw_text": "",
-      "emotion_score": 0.4836,
+      "emotion_score": 0.2994,
       "continuity_score": 0.85,
-      "cliffhanger_score": 5.0,
-      "drop_off_probability": 0.485,
+      "cliffhanger_score": 2.0,
+      "drop_off_probability": 0.64,
       "arc_deviation": 0.0
     },
     {
       "episode_number": 6,
-      "title": "The Final Goodbye",
-      "plot_beat": "As Sarah's time comes to an end, Max is by her side, holding her hand and looking up at her with tears in his eyes. Sarah smiles weakly at him, and Max knows that it's almost time to say goodbye. The passerby is also present, offering words of comfort and support. As the episode comes to a close, Max says goodbye to his mother, and the passerby helps him to process his grief.",
-      "opening_beat": "The episode opens on a shot of Max's mother, Sarah, in a hospital bed, surrounded by her loved ones. Max is sitting next to her, holding her hand, and looking up at her with tears in his eyes. As the scene fades to black, we see a montage of Max and his mother's happy times together.",
-      "closing_beat": "As the episode comes to a close, Max is seen walking away from the hospital, holding a small bouquet of flowers. The passerby is walking alongside him, offering words of comfort and support. Max looks up at him with a mix of sadness and gratitude.",
+      "title": "the journey",
+      "plot_beat": "Zara and her father embark on their road trip, visiting the places where he grew up and the people who shaped his life. As they travel, Zara begins to understand the depth of her father's love and the reasons behind the silence between them. But her father's memories are fading fast, and Zara realizes she may never see him again.",
+      "opening_beat": "The episode opens on a shot of Zara and her father driving down the highway, the sun rising over the fields. The camera pans across their faces, their eyes fixed on the road ahead. As they drive, the camera cuts to a series of flashbacks, showing Zara and her father together, laughing and smiling.",
+      "closing_beat": "Zara and her father pull up to the old family farm, the sun setting over the fields. Zara gets out of the car, and her father follows her, his eyes cloudy with confusion. She takes his hand, and they walk together, the camera lingering on their faces as they take in the beauty of the world.",
       "characters": [
-        "Max",
-        "Sarah",
-        "Passerby"
+        "Zara",
+        "Marcus"
       ],
       "locations": [
-        "Hospital"
+        "the old family farm"
       ],
       "character_descriptions": {
-        "Max": "10 years old, messy brown hair, big brown eyes, determined and kind. Fatal flaw: his determination can sometimes lead to recklessness. Hidden strength: his love for his mother drives him to be strong.",
-        "Sarah": "40 years old, frail, kind smile, loving mother. Fatal flaw: her illness has left her weak and vulnerable. Hidden strength: her love for Max keeps her going.",
-        "Passerby": "30 years old, kind face, gentle demeanor, unknown backstory. Fatal flaw: unknown. Hidden strength: his kindness and empathy."
+        "Zara": "28, dark hair, piercing green eyes, guarded and independent, but with a deep well of emotion. She's been running from her past for years, but the return to her childhood home forces her to confront the silence between her and her father.",
+        "Marcus": "62, graying hair, kind eyes, struggling with early-stage dementia. He's a complex, multifaceted person, but his memories are fading fast, and he's desperate to hold on to the past."
       },
       "time_references": [
-        "the day of Sarah's birthday"
+        "6 years after Zara left home",
+        "midnight"
       ],
       "action_verbs": [
-        "holds",
-        "looks",
-        "smiles",
-        "offers"
+        "embarks",
+        "begins",
+        "realizes",
+        "takes"
       ],
       "conflict_keywords": [
-        "illness",
-        "loss",
-        "goodbye"
+        "road trip",
+        "memories",
+        "love",
+        "silence"
       ],
       "raw_text": "",
-      "emotion_score": 0.4643,
+      "emotion_score": 0.1914,
       "continuity_score": 0.85,
-      "cliffhanger_score": 3.0,
-      "drop_off_probability": 0.491,
+      "cliffhanger_score": 3.8,
+      "drop_off_probability": 0.573,
+      "arc_deviation": 0.0
+    },
+    {
+      "episode_number": 7,
+      "title": "the goodbye",
+      "plot_beat": "Zara and her father return home, their road trip coming to an end. As they say their goodbyes, Zara realizes she may never see her father again. She takes his hand, and they walk together, the camera lingering on their faces as they take in the beauty of the world. The episode ends with a shot of Zara sitting alone in the living room, her father's song playing in the background.",
+      "opening_beat": "The episode opens on a shot of Zara and her father driving down the highway, the sun rising over the fields. The camera pans across their faces, their eyes fixed on the road ahead. As they drive, the camera cuts to a series of flashbacks, showing Zara and her father together, laughing and smiling.",
+      "closing_beat": "Zara sits alone in the living room, her father's song playing in the background. The camera pans across her face, her eyes welling up with tears. As the song fades away, the camera lingers on Zara's face, her eyes fixed on the empty chair where her father once sat.",
+      "characters": [
+        "Zara",
+        "Marcus"
+      ],
+      "locations": [
+        "Marcus's childhood home in Detroit"
+      ],
+      "character_descriptions": {
+        "Zara": "28, dark hair, piercing green eyes, guarded and independent, but with a deep well of emotion. She's been running from her past for years, but the return to her childhood home forces her to confront the silence between her and her father.",
+        "Marcus": "62, graying hair, kind eyes, struggling with early-stage dementia. He's a complex, multifaceted person, but his memories are fading fast, and he's desperate to hold on to the past."
+      },
+      "time_references": [
+        "6 years after Zara left home",
+        "midnight"
+      ],
+      "action_verbs": [
+        "returns",
+        "realizes",
+        "takes",
+        "walks"
+      ],
+      "conflict_keywords": [
+        "goodbye",
+        "memories",
+        "love",
+        "silence"
+      ],
+      "raw_text": "",
+      "emotion_score": 0.2696,
+      "continuity_score": 0.85,
+      "cliffhanger_score": 3.8,
+      "drop_off_probability": 0.549,
       "arc_deviation": 0.0
     }
   ],
   "emotional_arc": {
     "actual_curve": [
-      0.6134,
-      0.1554,
-      0.2089,
-      0.5213,
-      0.4836,
-      0.4643
+      0.3423,
+      0.1646,
+      0.4504,
+      0.1811,
+      0.2994,
+      0.1914,
+      0.2696
     ],
     "ideal_curve": [
       0.3,
-      0.43,
-      0.56,
-      0.69,
-      0.82,
+      0.4083,
+      0.5167,
+      0.625,
+      0.7333,
+      0.8417,
       0.95
     ],
-    "flat_zones": [
-      5,
-      6
-    ],
+    "flat_zones": [],
     "overall_deviation_score": null
   },
   "cliffhanger_breakdown": [
     {
       "episode_number": 1,
-      "title": "The Long Wait",
-      "score": 10.0,
+      "title": "the silence begins",
+      "score": 7.6,
       "criteria": [
         {
           "criterion": "Unresolved question",
           "pass": true,
-          "reason": "The passerby's expression change from concern to understanding implies that Max's mother may have passed away, creating a specific and unresolved question about Max's mother's fate."
+          "reason": "The episode ends with a specific, tangible mystery - the old-fashioned key and its unknown purpose - that raises a clear question in the audience's mind."
         },
         {
           "criterion": "Emotional stakes raised",
           "pass": true,
-          "reason": "The passerby's understanding expression implies that Max's mother is deceased, raising the emotional stakes for Max and the audience, as they now understand the true significance of Max's actions and the gravity of his loss."
+          "reason": "The discovery of the mysterious key raises the stakes for Zara, implying that her father may be hiding something important, and that she may be running out of time to uncover the truth before his memories fade completely."
         },
         {
           "criterion": "Character in jeopardy",
           "pass": true,
-          "reason": "Max's emotional state is precarious as he mourns the ruined cake, and the passerby's question about his mother's whereabouts implies a deeper, unresolved issue."
+          "reason": "Zara's confusion and widening eyes suggest she's in emotional jeopardy as she's unsure what the key unlocks and what it might mean for her father's past."
         },
         {
           "criterion": "New information revealed",
           "pass": true,
-          "reason": "The passerby's question and Max's response introduce the possibility that Max's mother may be deceased, which recontextualises the audience's understanding of Max's motivations and the story's tone."
+          "reason": "The discovery of the old-fashioned key in Marcus's pocket introduces a new mystery that recontextualizes the audience's understanding of Zara's family history and her father's past."
         },
         {
           "criterion": "Time pressure present",
-          "pass": true,
-          "reason": "The episode's central plot revolves around Max's goal to buy a birthday cake for his mother before her birthday, creating an implied urgency and deadline."
+          "pass": false,
+          "reason": "There is no explicit time constraint or urgency in the closing beat, as the focus is on Zara's emotional connection with her father and the mystery of the key rather than a pressing deadline."
         },
         {
           "criterion": "Scene ends on action beat",
-          "pass": true,
-          "reason": "The passerby's expression change and Max's pointing gesture create a moment of discovery and subtle tension."
+          "pass": false,
+          "reason": "The episode ends with a moment of quiet reflection and confusion, as Zara discovers the mysterious key and her father's eyes cloud over, rather than a moment of action or confrontation."
         }
       ]
     },
     {
       "episode_number": 2,
-      "title": "The Past Catches Up",
+      "title": "the letters",
       "score": 3.8,
       "criteria": [
         {
           "criterion": "Unresolved question",
           "pass": false,
-          "reason": "The episode ends with a poignant emotional moment, but it doesn't introduce a specific unresolved question or mystery that the audience needs to be answered."
+          "reason": "The episode ends with a poignant emotional moment, but the primary question is more about Zara's emotional state and her relationship with her father, rather than a specific mystery that needs resolution."
         },
         {
           "criterion": "Emotional stakes raised",
           "pass": true,
-          "reason": "The emotional stakes are explicitly raised as Max's vulnerability and emotional breakdown in the park reveal the depth of his connection to his mother and the gravity of her illness."
+          "reason": "Zara's emotional stakes are explicitly raised as she becomes more invested in finishing her father's song and her father's memories begin to fade, making the possibility of losing him more pressing."
         },
         {
           "criterion": "Character in jeopardy",
           "pass": true,
-          "reason": "Max is emotionally vulnerable and in tears as the episode ends, indicating he is in a state of emotional jeopardy."
+          "reason": "Zara is emotionally and socially jeopardized as she feels frustrated and defeated after her father's momentary recognition slips away."
         },
         {
           "criterion": "New information revealed",
           "pass": false,
-          "reason": "The episode ends with a poignant emotional moment, but it doesn't introduce new information that recontextualizes what the audience thought they knew about the story."
+          "reason": "The episode ends with a poignant moment of emotional connection between Zara and her father, but it doesn't reveal any new information that significantly recontextualizes the audience's understanding of the plot."
         },
         {
           "criterion": "Time pressure present",
           "pass": false,
-          "reason": "There is no explicit or implied urgency in the closing beat, as the scene focuses on Max's emotional moment rather than a looming deadline or time constraint."
+          "reason": "There is no explicit time constraint or urgency in the closing beat, as Zara's father's memories are simply fading fast, rather than a ticking clock or deadline."
         },
         {
           "criterion": "Scene ends on action beat",
           "pass": false,
-          "reason": "The episode ends with a quiet character moment, as Max breaks down in tears and the passerby offers comfort, rather than a moment of action, discovery, or confrontation."
+          "reason": "The episode ends with a quiet character moment, as Zara reflects on her failed attempt to connect with her father, rather than any action, discovery, or confrontation."
         }
       ]
     },
     {
       "episode_number": 3,
-      "title": "The Weight of Grief",
-      "score": 5.6,
+      "title": "the tapes",
+      "score": 6.8,
       "criteria": [
         {
           "criterion": "Unresolved question",
           "pass": false,
-          "reason": "The episode ends with a moment of connection and understanding between Max and the passerby, rather than an unresolved question or mystery."
+          "reason": "The episode ends with a poignant emotional moment, but the unresolved question is more about the future of the story rather than a specific mystery that needs to be answered."
         },
         {
           "criterion": "Emotional stakes raised",
           "pass": true,
-          "reason": "The passerby's revelation of a similar story of loss raises the emotional stakes for Max, as he now understands that he is not alone in his grief and may have more to lose in terms of emotional connection and potential healing."
+          "reason": "The emotional stakes are explicitly raised as Zara's father's memories fade, making it uncertain whether she'll be able to finish the song, and she's now at risk of losing her connection to him."
         },
         {
           "criterion": "Character in jeopardy",
           "pass": true,
-          "reason": "Max is emotionally vulnerable and in a state of raw grief, which puts him in a precarious position, and the passerby's revelation adds a layer of uncertainty to their relationship."
+          "reason": "Zara's emotional state is precarious as she faces the possibility of losing her father's memories and her chance to complete the song."
         },
         {
           "criterion": "New information revealed",
           "pass": true,
-          "reason": "The passerby's revelation of a similar story of loss and grief adds a new layer of depth to the narrative, recontextualizing Max's emotions and experiences."
+          "reason": "The revelation that Zara's father's memories are fading and he may not be able to recall the song's lyrics adds a new layer of urgency and raises questions about the song's completion, recontextualizing the audience's understanding of Zara's journey."
         },
         {
           "criterion": "Time pressure present",
-          "pass": false,
-          "reason": "There is no explicit or implied time constraint, deadline, or countdown in the closing beat, allowing the audience to focus on the emotional connection between Max and the passerby."
+          "pass": true,
+          "reason": "The episode implies that Zara's father's memories are fading fast, creating a sense of urgency for Zara to finish the song before it's too late."
         },
         {
           "criterion": "Scene ends on action beat",
           "pass": false,
-          "reason": "The episode ends on a quiet character moment with Max and the passerby sharing a moment of mutual understanding through dialogue and reflection."
+          "reason": "The episode ends with a quiet character moment, as Zara's emotional response is conveyed through her facial expression and tears, rather than a moment of action or confrontation."
         }
       ]
     },
     {
       "episode_number": 4,
-      "title": "The Final Goodbye",
-      "score": 5.0,
+      "title": "the past",
+      "score": 8.8,
       "criteria": [
         {
           "criterion": "Unresolved question",
-          "pass": false,
-          "reason": "The episode ends with a clear emotional conclusion for Max and his mother, and the audience is left with a sense of impending loss rather than an unresolved question or mystery."
+          "pass": true,
+          "reason": "The audience is left wondering what Zara's father is trying to say, and whether his slurred words are a sign of a relapse or a different issue."
         },
         {
           "criterion": "Emotional stakes raised",
           "pass": true,
-          "reason": "The emotional stakes are explicitly raised as Sarah's condition takes a turn for the worse, and Max is forced to confront the impending loss of his mother."
+          "reason": "The audience is left wondering if Zara's father's slurred speech indicates a relapse into addiction, raising the stakes for Zara's relationship with him and her own emotional well-being."
         },
         {
           "criterion": "Character in jeopardy",
           "pass": true,
-          "reason": "Max is in emotional jeopardy as he prepares to say goodbye to his dying mother."
+          "reason": "Zara's father appears to be experiencing a relapse into addiction, putting him in emotional jeopardy."
         },
         {
           "criterion": "New information revealed",
-          "pass": false,
-          "reason": "The episode ends with a poignant moment of emotional closure, but it doesn't introduce any new information or plot twist that significantly recontextualizes the audience's understanding of the story."
+          "pass": true,
+          "reason": "The revelation that Zara's father is struggling with addiction again, as indicated by his slurred speech, meaningfully recontextualises the audience's understanding of his past and their relationship."
         },
         {
           "criterion": "Time pressure present",
-          "pass": true,
-          "reason": "The episode explicitly states that Sarah's condition has taken a turn for the worse and she's given a short time to live, creating a clear sense of urgency and countdown."
+          "pass": false,
+          "reason": "There is no explicit or implied time constraint, deadline, or countdown in the closing beat, as the scene focuses on Zara's emotional revelation and her father's unclear state rather than an impending event."
         },
         {
           "criterion": "Scene ends on action beat",
-          "pass": false,
-          "reason": "The episode ends with a quiet character moment, where Max reflects on his impending goodbye with his mother."
+          "pass": true,
+          "reason": "The final scene ends with Zara leaning forward, trying to understand her father's slurred words, implying a moment of tension and uncertainty."
         }
       ]
     },
     {
       "episode_number": 5,
-      "title": "The Last Gift",
-      "score": 5.0,
+      "title": "the song",
+      "score": 2.0,
       "criteria": [
         {
           "criterion": "Unresolved question",
           "pass": false,
-          "reason": "The episode ends with a poignant emotional moment, but there is no clear unresolved question or mystery that the audience needs to be answered."
+          "reason": "The episode ends with a poignant moment of closure and resolution for Zara and her father, rather than an unresolved question or mystery."
         },
         {
           "criterion": "Emotional stakes raised",
           "pass": true,
-          "reason": "The closing beat explicitly raises the emotional stakes for Max as Sarah's condition takes a turn for the worse, making their impending goodbye even more poignant."
+          "reason": "The emotional stakes are explicitly raised as Zara's father's memories are fading, and she may never see him again, creating a sense of urgency and loss."
         },
         {
           "criterion": "Character in jeopardy",
-          "pass": true,
-          "reason": "Sarah's condition takes a turn for the worse, and she's given a short time to live, putting her in physical jeopardy."
+          "pass": false,
+          "reason": "The episode ends on a poignant and emotional note, but the protagonist, Zara, is not in physical, emotional, or social jeopardy at this moment."
         },
         {
           "criterion": "New information revealed",
           "pass": false,
-          "reason": "The episode ends with a heartwarming moment, but it doesn't introduce any new information or plot twist that significantly recontextualizes the audience's understanding of the story."
+          "reason": "The episode ends on a poignant and emotional note, but it does not introduce any new information or plot twist that significantly recontextualizes the audience's understanding of the story."
         },
         {
           "criterion": "Time pressure present",
-          "pass": true,
-          "reason": "The episode explicitly states that Sarah's condition takes a turn for the worse and she's given a short time to live, creating an implied urgency."
+          "pass": false,
+          "reason": "There is no explicit time constraint or deadline mentioned in the closing beat, only a sense of urgency due to Zara's father's fading memories."
         },
         {
           "criterion": "Scene ends on action beat",
           "pass": false,
-          "reason": "The episode ends with a quiet character moment, where Max presents Sarah with a cake and they share a weak smile, rather than a moment of action, discovery, or confrontation."
+          "reason": "The episode ends on a quiet character moment, with Zara and her father sharing a poignant moment of reflection and connection."
         }
       ]
     },
     {
       "episode_number": 6,
-      "title": "The Final Goodbye",
-      "score": 3.0,
+      "title": "the journey",
+      "score": 3.8,
       "criteria": [
         {
           "criterion": "Unresolved question",
           "pass": false,
-          "reason": "The episode's closing beat resolves the immediate emotional conflict, providing a sense of closure for Max's goodbye to his mother."
+          "reason": "The episode ends on a poignant moment of emotional connection between Zara and her father, but it doesn't leave a specific unresolved question or mystery for the audience to ponder."
         },
         {
           "criterion": "Emotional stakes raised",
-          "pass": false,
-          "reason": "The emotional stakes for Max are resolved as he says goodbye to his mother, and the audience is shown a moment of closure and support, rather than a new threat or risk."
+          "pass": true,
+          "reason": "The emotional stakes are explicitly raised as Zara realizes she may never see her father again, creating a sense of urgency and loss."
         },
         {
           "criterion": "Character in jeopardy",
           "pass": true,
-          "reason": "Max is walking away from the hospital, still visibly affected by his mother's passing, indicating he is in emotional jeopardy."
+          "reason": "Zara's father's memories are fading, and she realizes she may never see him again, putting her in emotional jeopardy."
         },
         {
           "criterion": "New information revealed",
           "pass": false,
-          "reason": "The episode ends on a poignant and emotional note, but it does not introduce any new information or plot twist that recontextualizes the audience's understanding of the story."
+          "reason": "The episode ends on a poignant and emotional note, but it doesn't introduce new information or a plot twist that significantly recontextualizes the audience's understanding of the story."
         },
         {
           "criterion": "Time pressure present",
-          "pass": true,
-          "reason": "The episode's title 'The Final Goodbye' and the description of Sarah's weak smile and Max's tears imply that Sarah's time is limited, creating a sense of urgency."
+          "pass": false,
+          "reason": "There is no explicit time constraint or urgency mentioned in the plot beat, as the focus is on Zara's emotional journey and her father's fading memories."
         },
         {
           "criterion": "Scene ends on action beat",
           "pass": false,
-          "reason": "The episode ends with a quiet character moment, showcasing Max's emotional state as he walks away from the hospital with the passerby's support."
+          "reason": "The episode ends on a quiet character moment, with Zara and her father sharing a poignant moment of reflection and connection."
+        }
+      ]
+    },
+    {
+      "episode_number": 7,
+      "title": "the goodbye",
+      "score": 3.8,
+      "criteria": [
+        {
+          "criterion": "Unresolved question",
+          "pass": false,
+          "reason": "The episode ends with a poignant emotional moment, but there is no specific unresolved question or mystery that requires resolution."
+        },
+        {
+          "criterion": "Emotional stakes raised",
+          "pass": true,
+          "reason": "The emotional stakes for Zara are explicitly raised as she realizes she may never see her father again, creating a sense of impending loss."
+        },
+        {
+          "criterion": "Character in jeopardy",
+          "pass": true,
+          "reason": "Zara is emotionally distraught, her eyes welling up with tears, indicating she is in a state of emotional jeopardy."
+        },
+        {
+          "criterion": "New information revealed",
+          "pass": false,
+          "reason": "The episode's closing beat is an emotional moment of reflection, but it doesn't introduce any new information or plot twist that changes the audience's understanding of the story."
+        },
+        {
+          "criterion": "Time pressure present",
+          "pass": false,
+          "reason": "There is no explicit time constraint or deadline that creates a sense of urgency, making the ending feel more melancholic and introspective than cliffhanger-like."
+        },
+        {
+          "criterion": "Scene ends on action beat",
+          "pass": false,
+          "reason": "The episode ends with a quiet character moment, focusing on Zara's emotional reflection after her father's departure."
         }
       ]
     }
@@ -505,7 +571,7 @@
   "retention_heatmap": [
     {
       "episode_number": 1,
-      "title": "The Long Wait",
+      "title": "the silence begins",
       "blocks": [
         {
           "time_block": "0\u201315s",
@@ -529,24 +595,24 @@
         },
         {
           "time_block": "60\u201375s",
-          "risk_level": "low",
-          "reason": "Escalation strong \u2014 emotion and tension rising toward cliffhanger"
+          "risk_level": "medium",
+          "reason": "Escalation risk: cliffhanger score 5.0/10 \u2014 escalation may feel weak; emotion score below threshold for late-episode escalation"
         },
         {
           "time_block": "75\u201390s",
-          "risk_level": "low",
-          "reason": "Strong cliffhanger \u2014 closing beat should compel next-episode play"
+          "risk_level": "medium",
+          "reason": "Cliffhanger risk: cliffhanger score 5.0/10 \u2014 closing beat needs strengthening; low closing emotion \u2014 cliffhanger lacks emotional punch"
         }
       ],
       "overall_risk": "low",
       "high_risk_count": 0,
-      "medium_risk_count": 0,
-      "low_risk_count": 6,
-      "summary": "The Long Wait has strong retention across all time blocks with no critical risk windows."
+      "medium_risk_count": 2,
+      "low_risk_count": 4,
+      "summary": "the silence begins has strong retention across all time blocks with no critical risk windows."
     },
     {
       "episode_number": 2,
-      "title": "The Past Catches Up",
+      "title": "the letters",
       "blocks": [
         {
           "time_block": "0\u201315s",
@@ -583,11 +649,11 @@
       "high_risk_count": 0,
       "medium_risk_count": 2,
       "low_risk_count": 4,
-      "summary": "The Past Catches Up has strong retention across all time blocks with no critical risk windows."
+      "summary": "the letters has strong retention across all time blocks with no critical risk windows."
     },
     {
       "episode_number": 3,
-      "title": "The Weight of Grief",
+      "title": "the tapes",
       "blocks": [
         {
           "time_block": "0\u201315s",
@@ -624,11 +690,11 @@
       "high_risk_count": 0,
       "medium_risk_count": 2,
       "low_risk_count": 4,
-      "summary": "The Weight of Grief has strong retention across all time blocks with no critical risk windows."
+      "summary": "the tapes has strong retention across all time blocks with no critical risk windows."
     },
     {
       "episode_number": 4,
-      "title": "The Final Goodbye",
+      "title": "the past",
       "blocks": [
         {
           "time_block": "0\u201315s",
@@ -657,19 +723,19 @@
         },
         {
           "time_block": "75\u201390s",
-          "risk_level": "low",
-          "reason": "Strong cliffhanger \u2014 closing beat should compel next-episode play"
+          "risk_level": "medium",
+          "reason": "Cliffhanger risk: cliffhanger score 5.0/10 \u2014 closing beat needs strengthening; low closing emotion \u2014 cliffhanger lacks emotional punch"
         }
       ],
       "overall_risk": "low",
       "high_risk_count": 0,
-      "medium_risk_count": 1,
-      "low_risk_count": 5,
-      "summary": "The Final Goodbye has strong retention across all time blocks with no critical risk windows."
+      "medium_risk_count": 2,
+      "low_risk_count": 4,
+      "summary": "the past has strong retention across all time blocks with no critical risk windows."
     },
     {
       "episode_number": 5,
-      "title": "The Last Gift",
+      "title": "the song",
       "blocks": [
         {
           "time_block": "0\u201315s",
@@ -706,11 +772,11 @@
       "high_risk_count": 0,
       "medium_risk_count": 2,
       "low_risk_count": 4,
-      "summary": "The Last Gift has strong retention across all time blocks with no critical risk windows."
+      "summary": "the song has strong retention across all time blocks with no critical risk windows."
     },
     {
       "episode_number": 6,
-      "title": "The Final Goodbye",
+      "title": "the journey",
       "blocks": [
         {
           "time_block": "0\u201315s",
@@ -747,78 +813,119 @@
       "high_risk_count": 0,
       "medium_risk_count": 2,
       "low_risk_count": 4,
-      "summary": "The Final Goodbye has strong retention across all time blocks with no critical risk windows."
+      "summary": "the journey has strong retention across all time blocks with no critical risk windows."
+    },
+    {
+      "episode_number": 7,
+      "title": "the goodbye",
+      "blocks": [
+        {
+          "time_block": "0\u201315s",
+          "risk_level": "low",
+          "reason": "Strong hook \u2014 strong cold-open continuation from previous cliffhanger"
+        },
+        {
+          "time_block": "15\u201330s",
+          "risk_level": "low",
+          "reason": "Clean setup \u2014 character and location context established clearly"
+        },
+        {
+          "time_block": "30\u201345s",
+          "risk_level": "low",
+          "reason": "Development on track \u2014 tension signals present"
+        },
+        {
+          "time_block": "45\u201360s",
+          "risk_level": "low",
+          "reason": "Midpoint strong \u2014 reversal or new information likely present"
+        },
+        {
+          "time_block": "60\u201375s",
+          "risk_level": "medium",
+          "reason": "Escalation risk: cliffhanger score 5.0/10 \u2014 escalation may feel weak; emotion score below threshold for late-episode escalation"
+        },
+        {
+          "time_block": "75\u201390s",
+          "risk_level": "medium",
+          "reason": "Cliffhanger risk: cliffhanger score 5.0/10 \u2014 closing beat needs strengthening; low closing emotion \u2014 cliffhanger lacks emotional punch"
+        }
+      ],
+      "overall_risk": "low",
+      "high_risk_count": 0,
+      "medium_risk_count": 2,
+      "low_risk_count": 4,
+      "summary": "the goodbye has strong retention across all time blocks with no critical risk windows."
     }
   ],
   "continuity_issues": [],
   "suggestions": [
     {
       "priority": 1,
-      "episode": 2,
+      "episode": 4,
       "category": "Retention",
-      "suggestion": "Add a scene where Max and the passerby have a brief, meaningful conversation that reveals their shared connection or emotional resonance, such as the passerby sharing a personal experience of loss or struggle, to create a deeper emotional bond and make Max's breakdown in the park more impactful. This new scene can occur after Max opens up about his mother's illness, making the moment in the park more earned and emotionally resonant.",
-      "impact_score": 51.2
+      "suggestion": "Introduce a pivotal moment in the attic scene where Zara discovers a specific, emotionally charged photograph or newspaper clipping that directly connects to her father's past and her own life, creating a turning point that propels the conversation in the closing scene. This could be a photograph of Zara as a child, or a clipping that mentions a specific event or date that is crucial to her understanding of her father's struggles. This added detail will give the audience a clear reason for Zara's emotional response in the closing scene.",
+      "impact_score": 50.7
     },
     {
       "priority": 2,
-      "episode": 3,
+      "episode": 5,
       "category": "Retention",
-      "suggestion": "Introduce a dramatic plot twist or a meaningful revelation about the passerby's past within the first 5 minutes of the caf\u00e9 scene, making Max's emotional breakdown and subsequent conversation with the passerby feel less like a coincidence and more like a deliberate connection that drives the plot forward. This could be achieved by having the passerby mention a specific object or memory that resonates with Max, setting the stage for their shared understanding of loss.",
-      "impact_score": 50.0
+      "suggestion": "Add a transitional moment between Zara finishing the song and deciding to take her father on a road trip, such as a montage of her father's fading memories and her growing realization of how short their time is, to create a more organic connection between the emotional resolution of the song and the sudden shift in her decision to take him on a road trip. This will help to better pace the episode and mitigate the drop-off risk.",
+      "impact_score": 48.0
     },
     {
       "priority": 3,
-      "episode": 2,
-      "category": "Emotional Arc",
-      "suggestion": "Replace the passerby with a character who has a direct connection to Max's mother's illness or the family's past, such as a former nurse who helped care for Max's mother or a neighbor who witnessed the family's struggles. This connection will make the passerby's offer of help more meaningful and raise the emotional stakes for Max, allowing him to feel a deeper sense of vulnerability and trust.",
-      "impact_score": 45.6
+      "episode": 5,
+      "category": "Cliffhanger",
+      "suggestion": "Add a moment where Zara's father suddenly snaps back to clarity, recognizes the familiar surroundings, and breaks down in tears, overwhelmed by the memories and the beauty of the world around him, as the camera lingers on their faces and the setting sun. This twist creates an emotional hook and raises the stakes for their time together. Have Zara hold him closely, and they share a poignant, heart-wrenching moment before the scene fades to black.",
+      "impact_score": 48.0
     },
     {
       "priority": 4,
-      "episode": 4,
-      "category": "Retention",
-      "suggestion": "Consider adding a pivotal scene where Max and the passerby successfully plan and execute a memorable birthday surprise for Sarah, such as a small family gathering or a personalized gift, to create a moment of joy and connection that counterbalances the impending loss, making the emotional payoff in the closing scene more impactful. This could be inserted between the moments where Max becomes increasingly anxious and withdrawn, and the final scene in the hospital room.",
-      "impact_score": 43.0
+      "episode": 2,
+      "category": "Emotional Arc",
+      "suggestion": "Add a personal consequence that raises the stakes for Zara if she fails to finish the song: have her father explicitly state that if she doesn't complete the song, he will take his memories of it with him to the grave, leaving Zara without a tangible connection to him when he's gone.",
+      "impact_score": 45.1
     },
     {
       "priority": 5,
       "episode": 3,
-      "category": "Emotional Arc",
-      "suggestion": "Add a physical manifestation of Max's emotional pain, such as a sudden sharp pain in his chest or a desperate attempt to pull away from the passerby, to convey the depth of his anguish during the caf\u00e9 conversation, forcing the passerby to physically respond and heighten the emotional intensity.",
-      "impact_score": 42.7
+      "category": "Retention",
+      "suggestion": "To address the drop-off risk, add a more impactful moment of progression or revelation in the final act, specifically by having Zara's father recall a single, significant lyric from the song, which Zara can then use as a catalyst to remember the rest of the melody, raising the stakes and emotional tension before the closing scene. This could be achieved by having Zara ask her father a specific question about the song, which he then responds to, giving her a crucial piece of information.",
+      "impact_score": 44.6
     },
     {
       "priority": 6,
-      "episode": 6,
-      "category": "Cliffhanger",
-      "suggestion": "Add a twist to the closing scene by having the passerby reveal a personal connection to Sarah or Max, such as a shared memory or a secret that was never revealed, which would make Max's goodbye even more bittersweet and leave the audience with a lasting impression. This could be as simple as the passerby pulling out a photo from his pocket or mentioning a specific inside joke. This would give the scene a more emotional resonance and raise the stakes for Max's future.",
-      "impact_score": 42.0
+      "episode": 4,
+      "category": "Emotional Arc",
+      "suggestion": "To raise the emotional intensity and make characters feel more personal stakes, add a scene where Zara discovers a particularly disturbing or painful photograph from her father's past that directly relates to her own life, such as a photo of her mother who passed away, forcing Zara to confront the depth of her father's pain and her own unresolved emotions. This could be a pivotal moment that Zara keeps hidden from her father, making their subsequent conversation in the kitchen even more charged and emotional.",
+      "impact_score": 44.2
     },
     {
       "priority": 7,
-      "episode": 2,
-      "category": "Cliffhanger",
-      "suggestion": "Consider adding a new twist to the closing scene by having the passerby reveal a personal connection to Max's mother or the park, which would make Max's emotional breakdown even more poignant and raise questions about their shared history. For example, the passerby could mention a fond memory of visiting Max's mother at the hospital, or claim to have known her from a prior event. This would add a layer of depth to the scene and create a stronger hook.",
-      "impact_score": 37.2
+      "episode": 6,
+      "category": "Emotional Arc",
+      "suggestion": "Add a flashback or a moment of vulnerability in the farm scene, where Zara's father suddenly breaks down and shares a long-held secret or regret, forcing Zara to confront the harsh reality of his mortality and the weight of their unspoken past. This could be triggered by a specific object or setting on the farm that holds sentimental value, making the moment feel organic and earned. For example, he could touch an old family photo and become overwhelmed with emotion.",
+      "impact_score": 43.7
     },
     {
       "priority": 8,
-      "episode": 6,
+      "episode": 2,
       "category": "Retention",
-      "suggestion": "Consider adding a subtle, emotional flashback sequence between Max's goodbye and his walk away from the hospital, where Max remembers a cherished moment with his mother, such as a birthday celebration or a family vacation. This would give the audience a chance to process their emotions and create a more nuanced connection with Max's grief. Show this flashback in a dreamlike state, with soft music and muted colors.",
-      "impact_score": 36.8
+      "suggestion": "Add a pivotal plot twist or emotional revelation in the final 10 minutes of the episode, such as Zara's discovery of a specific letter or cassette tape that sparks a long-forgotten memory or connection with her father, making her piano performance in the closing scene a triumphant moment of breakthrough rather than frustration. This could be achieved by introducing a new piece of information or a surprise visit from someone connected to her father's past.",
+      "impact_score": 43.6
     }
   ],
   "score_explanations": {},
   "character_issues": [],
   "_pipeline_meta": {
-    "generated_at": "2026-03-07T07:28:06.100967+00:00",
-    "total_time_s": 177.53,
+    "generated_at": "2026-03-07T11:59:50.694196+00:00",
+    "total_time_s": 218.28,
     "phase_timings": {
-      "Phase 1 (M3\u2192M4)": 8.03,
-      "Phase 2 (M5,6,9,10)": 8.1,
-      "Phase 3 (M7,8,12,13)": 129.73,
-      "Phase 4 (M14\u2192M15)": 31.65
+      "Phase 1 (M3\u2192M4)": 7.58,
+      "Phase 2 (M5,6,9,10)": 5.08,
+      "Phase 3 (M7,8,12,13)": 171.83,
+      "Phase 4 (M14\u2192M15)": 33.79
     },
     "errors": [],
     "modules_run": [
