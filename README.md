@@ -26,11 +26,15 @@ venv\Scripts\activate        # Windows
 # Install dependencies
 pip install -r requirements.txt
 
+pip install -r requirements.txt --use-deprecated=legacy-resolver
+
 # Download spaCy model
-python -m spacy download en_core_web_sm
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 
 # Add your OpenAI key to .env
 # (open .env and set OPENAI_API_KEY=sk-...)
+
+pip install groq
 
 # Start the server
 uvicorn api.module2_api:app --reload --port 8000
